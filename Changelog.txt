@@ -1,1 +1,1 @@
-Announcement$Latest version: %VERSION%# | Your version: %VERSION%#Our website became https://e-z.bio/xx#[+] Removed FDPAntiSkid#[+] Removed FDPProtect#[+] Removed HWIDGetter#[+] $300$150
+Announcement$Latest version: %VERSION%# | Your version: %VERSION%#Our website became https://e-z.bio/xx#[+] Removed FDPAntiSkid#[+] Removed FDPProtect#[+] Removed HWIDGetter $300$150
